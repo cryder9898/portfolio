@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Oswald');
+
+body {
+  font-family: Oswald, Arial, sans-serif;
+  color: white;
+  background-color: #3E606F;
+  color: #FCFFF5;
+}
+
+.main {
+  margin-top: 40px;
+  text-align: center;
+  padding: 10px;
+  background-color: #91AA9D;
+}
+
+.content {
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #3E606F;
+  color: #FCFFF5;
+  padding: 10px;
+}
+
+.social-links {
+}
+
+footer {
+  padding: 20px 0;
+}
+
+.tn-size {
+  height: 200px;
+  width: 200px;
+}
