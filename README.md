@@ -1,3 +1,3 @@
 # portfolio
 
-Portfolio website to showcase my projects from freecodecamp and github.
+Portfolio website to showcase my projects from [freecodecamp](https://www.freecodecamp.com/cryder9898) and github.
