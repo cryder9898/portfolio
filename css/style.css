@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Oswald');
 
-body a {
+body{
   color: white;
+}
+
+#about {
+  font-size: 2em;
+  padding-top: 5%;
+  padding-bottom: 2em;
 }
 
 body {
@@ -9,8 +15,16 @@ body {
   background-color: #3E606F;
 }
 
-li {
+#about .panel-body .social-links {
+  
+}
+
+.nav li {
   text-align: left;
+}
+
+a, a:hover, a:active {
+  color: #00ffff;
 }
 
 
@@ -38,13 +52,28 @@ a.anchor {
 }
 
 .thumbnail {
-  height: 300px;
-  width: 400px;
+  margin: 10px auto;
+  height: 20em;
+  width: 30em;
+}
+
+ul#tech {
+  margin: 0 auto;
+  width: 50%;
+}
+
+#contact {
+  padding: 10px;
+}
+
+.panel, .list-group-item {
+  background-color: inherit;
+  text-align: center;
 }
 
 .social-links {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 10px 0;
 }
