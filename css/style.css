@@ -37,15 +37,14 @@ a.anchor {
   padding: 10px;
 }
 
+.thumbnail {
+  height: 300px;
+  width: 400px;
+}
+
 .social-links {
 }
 
 footer {
   padding: 20px 0;
-}
-
-.tn-size {
-  height: 200px;
-  width: 300px;
-  margin: 10px;
 }
